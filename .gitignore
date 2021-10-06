@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DiscountStore/.vs/DiscountStore/v16
+/DiscountStore/DIscountStore/obj
+/DiscountStore/DiscountStore.Core/obj
+/DiscountStore/DIscountStore.DAL/obj
+/DiscountStore/DiscountStore.Services/obj
+/DiscountStore/DiscountStore.Core/bin/Debug/net5.0
+/DiscountStore/DiscountStore.Services/bin/Debug/net5.0
+/DiscountStore/DiscountStore.Services.Tests/bin/Debug/net5.0
+/DiscountStore/DiscountStore.Services.Tests/obj/Debug/net5.0
+/DiscountStore/DiscountStore.Services.Tests/obj
